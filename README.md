@@ -27,7 +27,7 @@ The base reimplementation used in Chapter 4.
 2.3-main_bigtuck_i.cpp
 2.4-main_sqbase_i.cpp
 
-The albatross morphologies (and their morphological versions) used in Chapter 6.
+The albatross morphologies (and their morphological evolved versions) used in Chapter 6.
 
 3-main_turn.cpp
 The turning task version of the reimplementation used in Chapter 7.
