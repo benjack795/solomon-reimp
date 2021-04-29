@@ -3,7 +3,7 @@ Reimplementation of Solomon et al's Linear Reactive Control bipedal system. Feat
 
 The folder "Body Remaster" contains the reimplementations of Solomon et al's work in the ODE engine, without 2D engine bootstrapping used throughout the thesis.
 
-By compiling the four different main files with 
+By compiling the four different main files with (UNIX)
 
 x
 
