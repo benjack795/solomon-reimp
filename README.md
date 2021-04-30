@@ -20,6 +20,7 @@ The systems should find the file and run your seed, displaying the behaviour in 
 MAIN FILES
 
 1-main.cpp
+
 The base reimplementation used in Chapter 4.
 
 2.1-main_bigtuck.cpp
@@ -30,7 +31,9 @@ The base reimplementation used in Chapter 4.
 The albatross morphologies (and their morphologically evolved versions) used in Chapter 6.
 
 3-main_turn.cpp
+
 The turning task version of the reimplementation used in Chapter 7.
 
 4-main_turninc.cpp
+
 The incremental turning task version of the reimplemenation used in Chapter 8.
