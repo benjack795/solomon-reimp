@@ -3,13 +3,10 @@ Reimplementation of Solomon et al's Linear Reactive Control bipedal system. Feat
 
 The folder "Body Remaster" contains the reimplementations of Solomon et al's work in the ODE engine, without 2D engine bootstrapping used throughout the thesis.
 
-By compiling the four different main files with (UNIX)
+(UNIX ONLY, SORRY) You can compile the different main files with:
 
-x
 
-you can then run the code with 
-
-y
+P=[FILENAME]; g++ -o $P -I ../ode-0.16/include/ $P.cpp -lode -ldrawstuff -L ../ode-0.16/ode/src/.libs -L ../ode-0.16/drawstuff/src/.libs -lGL -lGLU -lX11 -lpthread && ./$P
 
 When run with PLAYBACK set to 0, the systems will run for the specified amount of generations with the given population size. 
 After this, it will save a seeded genotype (X_Y.csv) and other results files to the same location as the main file. 
