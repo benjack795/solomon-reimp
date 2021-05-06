@@ -18,7 +18,7 @@ MAIN FILES
 
 1-main.cpp
 
-The base reimplementation used in Chapter 4.
+The base reimplementation.
 
 2.1-main_bigtuck.cpp
 2.2-main_sqbase.cpp
