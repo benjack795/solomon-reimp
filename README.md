@@ -1,5 +1,5 @@
 # solomon-reimp
-Reimplementation of Solomon et al's Linear Reactive Control bipedal system. Featured in Chapters 6,7 and 8 of Neuroevolution of Bipedal Locomotion: algorithmic, balance penalty and morphological improvements for improved robustness and performance
+Reimplementation of Solomon et al's Linear Reactive Control bipedal system. Featured in Chapters 6, 7 and 8 of Neuroevolution of Bipedal Locomotion: algorithmic, balance penalty and morphological improvements for improved robustness and performance
 
 The folder "Body Remaster" contains the reimplementations of Solomon et al's work in the ODE engine, without 2D engine bootstrapping used throughout the thesis.
 
