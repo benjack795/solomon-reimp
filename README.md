@@ -3,7 +3,7 @@ Reimplementation of Solomon et al's Linear Reactive Control bipedal system, enha
 
 The folder "Body Remaster" contains the main cpp files for each chapter. (UNIX ONLY, SORRY) 
 
-You can compile the different main files with:
+You can compile the different main files on Linux with:
 
 P=[FILENAME]; g++ -o $P -I ../ode-0.16/include/ $P.cpp -lode -ldrawstuff -L ../ode-0.16/ode/src/.libs -L ../ode-0.16/drawstuff/src/.libs -lGL -lGLU -lX11 -lpthread && ./$P
 
