@@ -1,7 +1,7 @@
 # solomon-reimp
 Reimplementation of Solomon et al's Linear Reactive Control bipedal system, enhanced with Fitness Function Enhancements. Featured in Chapters 4, 6, 7 and 8 of my PhD thesis at Keele University, Neuroevolution of Bipedal Locomotion: algorithmic, balance penalty and morphological improvements for improved robustness and performance.
 
-The folder "Body Remaster" contains the main cpp files for each chapter. (UNIX ONLY, SORRY) 
+The folder "Body Remaster" contains the main cpp files for each chapter.
 
 You can compile the different main files on Linux with:
 
