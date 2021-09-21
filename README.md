@@ -9,7 +9,7 @@ P=[FILENAME]; g++ -o $P -I ../ode-0.16/include/ $P.cpp -lode -ldrawstuff -L ../o
 
 When run with LOADER/PLAYBACK set to 0, the systems will run for the specified amount of generations with the given population size. After this, it will save a seeded genotype (X_Y.csv) and other results files to the same location as the main file. 
 
-With PLAYBACK set to 1, the systems will then prompt you for a seed(s), which you can then enter (this is represented as X in the previous line). The systems should find the file and run your seed, displaying the behaviour in the ODE engine. Any queries contact me at benjack795@gmail.com.
+With LOADER/PLAYBACK set to 1, the systems will then prompt you for a seed(s), which you can then enter (this is represented as X in the previous line). The systems should find the file and run your seed, displaying the behaviour in the ODE engine. Any queries contact me at benjack795@gmail.com.
 
 MAIN FILES
 ----------
