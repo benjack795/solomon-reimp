@@ -1417,7 +1417,6 @@ struct Walker {
             //16 = learning/mutation rate
             filconts[i].input.at(16) = 1; //the weight is used as the mutation rate and adjusted accordingly
 
-            //3D INPUTS LATER
             //17 = hip il angle
 
             const dReal* hiprrot = dGeomGetRotation(box[2]);
