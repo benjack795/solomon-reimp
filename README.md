@@ -31,4 +31,4 @@ The pursuit-turning task version used in Chapter 7.
 
 4-main_turninc.cpp
 
-The incremental pursuit-turning task version of the reimplemenation used in Chapter 8.
+The incremental pursuit-turning task version used in Chapter 8.
